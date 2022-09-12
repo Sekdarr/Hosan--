@@ -1,0 +1,47 @@
+[000:035] [2022-05-26 02:04:59 +0000.920914][3c28] Log to file:/storage/emulated/0/voip-data/com.miui.gallery/trace.txt start time:2022-05-26 02:04:59 +0000
+[000:035] [2022-05-26 02:04:59 +0000.921054][3c28] dump file m_prefix:-06-11-feaf968
+
+[000:040] [2022-05-26 02:04:59 +0000.926397][3c28] dump filename:trace.txt dump time:1653530699
+
+[000:041] [2022-05-26 02:04:59 +0000.926673][3c28] set AppID=50012 old AppID=-1
+[000:041] [2022-05-26 02:04:59 +0000.926712][3c28] Init the android object with jvm:0xb40000772df63380 env:0xb40000772dfbc3c0 context:0x7fca629e68
+
+[000:041] [2022-05-26 02:04:59 +0000.926739][3c28] SetAndroidMediaCodecObjects time:128209002  enter.
+
+[000:041] [2022-05-26 02:04:59 +0000.926760][3c28] SetAndroidMediaCodecObjects  leave. expire time = 0 ms
+
+[000:041] [2022-05-26 02:04:59 +0000.926780][3c28] SetAndroidMediaCodecObjects time:128209002  enter.
+
+[000:041] [2022-05-26 02:04:59 +0000.926807][3c28] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects:: jvm :0xb40000772df63380
+[000:041] [2022-05-26 02:04:59 +0000.926824][3c28] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects success g_jvm_:0xb40000772df63380 address:0x756cf520a0
+[000:041] [2022-05-26 02:04:59 +0000.926841][3c28] SetAndroidMediaCodecObjects: SetAndroidMediaCodecObjects success g_jvm_encoder_:0xb40000772df63380 address:0x756cf520a0
+[000:041] [2022-05-26 02:04:59 +0000.926856][3c28] SetAndroidMediaCodecObjects  leave. expire time = 0 ms
+
+[000:041] [2022-05-26 02:04:59 +0000.926885][3c28] Set the android objects with jvm:0xb40000772df63380 env:0xb40000772dfbc3c0 context:0x7fca629e68
+
+[000:041] [2022-05-26 02:04:59 +0000.926924][3c28] audio jni debug :manager SetAndroidAudioDeviceObjects  env:0xb40000772dfbc3c0
+[000:041] [2022-05-26 02:04:59 +0000.926945][3c28]  SystemUtil Init done
+[000:042] [2022-05-26 02:04:59 +0000.928552][3c28] Java_com_xiaomi_skyprocess_WrapSegmentEngine_ConstructWrapSegmentEngineJni: 
+[000:043] [2022-05-26 02:04:59 +0000.928705][3c28] getInstanceWrapSegment time:128209004  enter.
+
+[000:043] [2022-05-26 02:04:59 +0000.929134][3c28] getInstanceWrapSegment  leave. expire time = 0 ms
+
+[000:044] [2022-05-26 02:04:59 +0000.929971][3c28] Java_com_xiaomi_skyprocess_WrapSegmentEngine_setGLSurfaceAvalibaleJni: setGLSurfaceAvalibaleJni end jni: 1
+[000:080] [2022-05-26 02:04:59 +0000.966067][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_SetOpengGlRenderParamsJni: 
+[000:080] [2022-05-26 02:04:59 +0000.966206][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_SetOpengGlRenderParamsJni:  program id: 3, textureUniform RGB: 0, ATTRIB_VERTEX: 0, ATTRIB_TEXTURE: 1, vertex_vertices len: 32, texture_vertices len: 32
+[000:081] [2022-05-26 02:04:59 +0000.967145][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_SetCurrentGLContextForGraphJni: 
+[000:081] [2022-05-26 02:04:59 +0000.967199][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_SetCurrentGLContextForGraphJni: g_eglcontext: 0x762e362000
+[000:082] [2022-05-26 02:04:59 +0000.967733][3e05] SetWindowSizeJni, posX: 0, posY: 0, width: 1080, height: 1329
+[000:082] [2022-05-26 02:04:59 +0000.968217][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:128209043  enter.
+
+[000:082] [2022-05-26 02:04:59 +0000.968267][3e05] (1/29)OpenGlRender_RenderFrameJni, sourcetype: 0, output_texture: 0, pkt_pts: -9223372036854775808width:0height:0
+[000:087] [2022-05-26 02:04:59 +0000.972883][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 5 ms
+
+[000:088] [2022-05-26 02:04:59 +0000.973758][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:128209049  enter.
+
+[000:093] [2022-05-26 02:04:59 +0000.979532][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire time = 5 ms
+
+[000:131] [2022-05-26 02:05:00 +0000.17484][3e05] SetWindowSizeJni, posX: 0, posY: 0, width: 650, height: 1329
+[000:131] [2022-05-26 02:05:00 +0000.17645][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni time:128209092  enter.
+
+[000:135] [2022-05-26 02:05:00 +0000.21644][3e05] Java_com_xiaomi_skyprocess_OpenGlRender_RenderFrameJni  leave. expire t
